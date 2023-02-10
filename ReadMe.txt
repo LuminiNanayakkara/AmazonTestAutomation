@@ -1,0 +1,1 @@
+I wrote the test automation using selenium framework. To run the project you can clone the project and open it using ‎IntelliJ IDEA. Then you can run the project.
